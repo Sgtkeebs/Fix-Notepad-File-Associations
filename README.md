@@ -5,7 +5,7 @@ This is a powershell script that will fix Notepad file associations when removin
 
 1. Download script to a place familiar to you. I like to use Desktop or Downloads.
 2. Open PowerShell as Admin.
-3. Change directories to where you downloaded to script to. Run `.\Fix-TextFile-Assoc.ps1`, you can also run it with the argument `.\Fix-TextFile-Assoc.ps1 -SkipExplorerRestart` 
+3. Change directories to where you downloaded to script to. Run `.\Fix-TextFile-Assoc.ps1`, you can also run it with the argument `.\Fix-TextFile-Assoc.ps1 -SkipExplorerRestart` to skip restarting Explorer, but it is recommended to reboot if you do this. 
 
 ## Notes
 
