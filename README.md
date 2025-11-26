@@ -9,4 +9,4 @@ This is a powershell script that will fix Notepad file associations when removin
 
 ## Notes
 
-**When doing any modifications of the registry always make sure to have a backup.** This script will backup the reg keys it modifies to a folder called `Backup` in the same directory where the script was run. 
+**When doing any modifications of the registry always make sure to have a backup,** but this script will backup the reg keys it modifies to a folder called `Backup` in the same directory where the script was run. 
